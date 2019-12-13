@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img width="320" src="https://wpimg.wallstcn.com/ecc53a42-d79b-42e2-8852-5126b810a4c8.svg">
 </p>
@@ -215,3 +216,6 @@ Modern browsers and Internet Explorer 10+.
 [MIT](https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE)
 
 Copyright (c) 2017-present PanJiaChen
+=======
+# antplatform-web
+>>>>>>> b59cf9b98aad121b7d32b150571dbc02c90b2eef
